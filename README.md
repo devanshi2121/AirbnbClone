@@ -143,7 +143,7 @@ This project is structured to ensure a systematic and incremental development pr
      - **Video:** [Building REST APIs](https://www.youtube.com/watch?v=pKd0Rpw7O48)
   3. Create property management UI in React.
      - **Reading:** [Material-UI Components](https://mui.com/getting-started/usage/)
-     - **Video:** [React Form Handling](https://www.youtube.com/watch?v=neHpLIKPp5M)
+     - **Video:** [React Form Handling](https://www.youtube.com/watch?v=0KEpWHtG10M&list=PL4cUxeGkcC9gjxLvV4VEkZ6H6H4yWuS58)
 
 - **Deliverables:**
   - Property listing and management functionality.
