@@ -86,6 +86,7 @@ The app follows a standard MERN architecture:
 4. **Authentication:** JWT manages user sessions and access control.
 
 
+## **Flow Chart**
 ![image](https://github.com/user-attachments/assets/8b4b53ae-877f-404c-96b9-f4954ee99b3c)
 
 
