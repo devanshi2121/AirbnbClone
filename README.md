@@ -176,7 +176,7 @@ This project is structured to ensure a systematic and incremental development pr
      - **Video:** [Google Maps in React](https://www.youtube.com/watch?v=WZcxJGmLbSo)
   2. Deploy the frontend on Netlify or Vercel.
      - **Reading:** [Netlify Deployment Guide](https://docs.netlify.com/)
-     - **Video:** [Deploying React Apps](https://www.youtube.com/watch?v=YdYyYMFPa44)
+     - **Video:** [Deploying React Apps](https://www.youtube.com/watch?v=tVzpC5_AC8M&t=11s)
   3. Deploy the backend on Render or Heroku.
      - **Reading:** [Render Deployment Guide](https://render.com/docs)
      - **Video:** [Node.js Deployment Tutorial](https://www.youtube.com/watch?v=l134cBAJCuc)
