@@ -85,6 +85,9 @@ The app follows a standard MERN architecture:
 3. **Database:** MongoDB stores user, property, and booking details.
 4. **Authentication:** JWT manages user sessions and access control.
 
+![download](https://github.com/user-attachments/assets/5997e884-155e-43b0-a21b-08379aa53ef9)
+
+
 ---
 
 ### **Project Structure for Feature Implementation**
